@@ -1,4 +1,4 @@
 ./venv/
-config.py
+# config.py
 downloaded_images/
 *.pyc
